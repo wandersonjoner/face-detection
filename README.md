@@ -1,5 +1,5 @@
 # face-detection
-Detecção de faces na web-cam com JavaScript 
+Detecção de faces na web-cam com JavaScript                                                                                   
 Tecnologias utilizadas: http-server, tracking.js, tracking-min.js já esta baixado com a pasta data e vamos utilizar o arquivo face-min.js:                                                                                                             
 1 - Instale o http-server com o comando npm install http-server -g                                    
 2 - Rode o servidor com o comando http-server que irá rodar na porta 8080 com o endereco http://127.0.0.1:8080                
